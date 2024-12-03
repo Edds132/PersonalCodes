@@ -39,7 +39,7 @@ A collection of projects designed to solidify foundational data engineering conc
   *Key Skills*: Python, Pandas, Data Transformation, ETL Automation.
 
 - **jupyter_notebook**:  
-  *Goal*: Follow the course notes and practice.
+  *Goal*: Follow the course notes and practice.  
   *Key Skills*: Python, Jupyter NoteBooks.
 
 ---
