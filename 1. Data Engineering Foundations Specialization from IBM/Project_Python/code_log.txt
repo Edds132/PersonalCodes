@@ -1,0 +1,10 @@
+2024-Dec-03-17:54:21 : Initiating ETL process
+2024-Dec-03-17:54:21 : Data Extraction complete, initiating Transformation
+2024-Dec-03-17:54:21 : Transformation complete, initiating loading process
+2024-Dec-03-17:54:21 : Data Saved in CSV file
+2024-Dec-03-17:54:21 : SQL connection initiated
+2024-Dec-03-17:54:21 : Data Saved as table
+2024-Dec-03-17:54:21 : Running SQL code 1
+2024-Dec-03-17:54:21 : Running SQL code 2
+2024-Dec-03-17:54:21 : Running SQL code 3
+2024-Dec-03-17:54:21 : Process Complete.
