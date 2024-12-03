@@ -44,17 +44,6 @@ A collection of projects designed to solidify foundational data engineering conc
 
 ---
 
-## Skills Showcase
-This repository demonstrates proficiency in the following areas:
-
-- **Programming Languages**: Python, SQL, C++  
-- **Data Engineering**: ETL Processes, Data Pipelines, Database Management  
-- **Data Visualization**: Power BI, Excel Dashboards  
-- **Web Scraping & Automation**: Automating data collection and transformation processes  
-- **Cloud Platforms**: BigQuery, Google Cloud Platform (GCP)
-
----
-
 ## About Me
 
 I am **Edwards Ortega Gonzalez**, a **Data Engineer** with a solid foundation in electronic engineering and programming. I specialize in automating data processes, building robust ETL pipelines, and ensuring data accuracy for optimal decision-making.
@@ -70,6 +59,17 @@ I am **Edwards Ortega Gonzalez**, a **Data Engineer** with a solid foundation in
 ### Skills
 - Python, SQL, BigQuery, C++, Power BI, Excel  
 - Data Analysis, ETL Automation, Data Governance  
+
+---
+
+## Skills Showcase
+This repository demonstrates proficiency in the following areas:
+
+- **Programming Languages**: Python, SQL, C++  
+- **Data Engineering**: ETL Processes, Data Pipelines, Database Management  
+- **Data Visualization**: Power BI, Excel Dashboards  
+- **Web Scraping & Automation**: Automating data collection and transformation processes  
+- **Cloud Platforms**: BigQuery, Google Cloud Platform (GCP)
 
 ---
 
