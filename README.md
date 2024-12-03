@@ -38,6 +38,10 @@ A collection of projects designed to solidify foundational data engineering conc
   *Goal*: Develop Python scripts to extract, transform, and load (ETL) data efficiently.  
   *Key Skills*: Python, Pandas, Data Transformation, ETL Automation.
 
+- **jupyter_notebook**:
+  *Goal*: Follow the course notes and practice.
+  *Key Skills*: Python, Jupyter NoteBooks.
+
 ---
 
 ## Skills Showcase
